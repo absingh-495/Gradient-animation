@@ -12,8 +12,9 @@ h1{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background: linear-gradient(90deg, #ff0000,#ffff00,#ff00f3,#0033ff,#ff00c4,#ff0000);
+  background: linear-gradient(90deg, black, white,orange,pink,green);
   font-size: 100px;  
+  text-transform: uppercase;
   background-size: 400%; /*100% can be done*/
   font-family:poppins;
   text-wrap: nowrap;
