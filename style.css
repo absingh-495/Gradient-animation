@@ -13,7 +13,7 @@ h1{
   left: 50%;
   transform: translate(-50%,-50%);
   background: linear-gradient(90deg, #ff0000,#ffff00,#ff00f3,#0033ff,#ff00c4,#ff0000);
-  font-size: 70px;  
+  font-size: 100px;  
   background-size: 400%; /*100% can be done*/
   font-family:poppins;
   text-wrap: nowrap;
